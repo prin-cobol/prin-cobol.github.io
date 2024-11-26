@@ -941,12 +941,12 @@ section {
 /*--------------------------------------------------------------
 # deliverables
 --------------------------------------------------------------*/
-.deliverables #deliverables-flters {
+.deliverables #deliverables-filters {
   list-style: none;
   margin-bottom: 20px;
 }
 
-.deliverables #deliverables-flters li {
+.deliverables #deliverables-filters li {
   cursor: pointer;
   display: inline-block;
   margin: 10px 5px;
@@ -960,8 +960,8 @@ section {
   font-family: "Poppins", sans-serif;
 }
 
-.deliverables #deliverables-flters li:hover,
-.deliverables #deliverables-flters li.filter-active {
+.deliverables #deliverables-filters li:hover,
+.deliverables #deliverables-filters li.filter-active {
   background: #95C11F;
   color: #fff;
 }
